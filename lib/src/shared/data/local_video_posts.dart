@@ -60,25 +60,26 @@ List<Map<String, dynamic>> videoPosts = [
     'views': 9454564,
   },
   {
-    'name': '¿Y este señor que puede estar pensando?',
+    'name': 'Una linda catarata',
     'videoUrl': 'assets/videos/11.mp4',
     'likes': 8754,
     'views': 5684842,
   },
+
   {
-    'name': '¿Cómo te está yendo el curso de flutter?',
+    'name': '¿Y este señor que puede estar pescando?',
     'videoUrl': 'assets/videos/12.mp4',
     'likes': 123154,
     'views': 87546,
   },
   {
-    'name': '¿Donde corres tan apresurado?',
+    'name': '¿Cómo te está yendo el curso de flutter?',
     'videoUrl': 'assets/videos/13.mp4',
     'likes': 687545,
     'views': 66678,
   },
   {
-    'name': '¿Ya llegamos a la India?... umm si',
+    'name': '¿Donde corres tan apresurado?',
     'videoUrl': 'assets/videos/14.mp4',
     'likes': 124,
     'views': 875465,
