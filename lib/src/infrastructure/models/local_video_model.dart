@@ -17,7 +17,7 @@ class LocalVideoModel {
       LocalVideoModel(
         name: json['name'] ?? 'No name',
         videoUrl: json['videoUrl'],
-        likes: json['lices'] ?? 0,
+        likes: json['likes'] ?? 0,
         views: json['views'] ?? 0,
       );
 
